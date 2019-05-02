@@ -1,5 +1,5 @@
 ---
-bg: "owl.jpg"
+bg: "library.jpg"
 layout: page
 title: "Software"
 crawlertitle: "Software of the AIA research group"
