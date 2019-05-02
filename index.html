@@ -1,1 +1,15 @@
-Hello!
+---
+bg: "rails.jpg"
+layout: twitter
+crawlertitle: "The AIA Research Group"
+title: "The AIA Research Group"
+summary: "UCLouvain"
+twitter: "UCLouvain_be"
+---
+
+{% for post in site.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
