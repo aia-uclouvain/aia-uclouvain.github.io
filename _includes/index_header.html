@@ -4,10 +4,6 @@
 
   <nav class="center-wrapper nav-main">
 
-    <a href="{{ site.baseurl }}/">
-    <img src="{{ my_page.url | prepend: site.baseurl }}/assets/images/uclouvain-aia.png" height=40px>
-    </a>
-
     {% for my_page in site.pages %}
       {% if my_page.active %}
         <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
@@ -15,8 +11,6 @@
     {% endfor %}
 
     <label for="menu-checkbox" class="toggle-button" data-open="☰" data-close="☰" onclick></label>
-
-
-    </nav>
+  </nav>
 
 </header>

@@ -5,17 +5,17 @@ title: "People"
 crawlertitle: "Members of the AIA research group"
 permalink: /people/
 summary: "Members of the AIA research group"
-active: about
+active: people
 ---
 
-The Artificial Intelligence and Algorithms (AIA) group of the UCLouvain has the following members.
+The Artificial Intelligence and Algorithms (AIA) research group is a part of the [Computer Science Engineering (INGI) department](https://uclouvain.be/fr/instituts-recherche/icteam/ingi) and the [Institute for Information and Communication Technologies and Applied Mathematics (ICTEAM)](https://uclouvain.be/fr/node/1991). It has the following members.
 
 Professors:
 
-* Yves Deville
-* Pierre Dupont
-* Siegfried Nijssen
-* Pierre Schaus
+* [Yves Deville](https://www.info.ucl.ac.be/~yde/)
+* [Pierre Dupont](https://www.info.ucl.ac.be/~pdupont/)
+* [Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/)
+* [Pierre Schaus](https://www.info.ucl.ac.be/~pschaus/)
 
 Postdocs:
 
