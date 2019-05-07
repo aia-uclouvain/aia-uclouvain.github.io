@@ -9,7 +9,11 @@ active: people
 ---
 
 
-The Artificial Intelligence and Algorithms (AIA) research group is a part of the [Computer Science Engineering (INGI) department](https://uclouvain.be/fr/instituts-recherche/icteam/ingi) and the [Institute for Information and Communication Technologies, Electronics and Applied Mathematics (ICTEAM)](https://uclouvain.be/fr/node/1991). It has the following members.
+The Artificial Intelligence and Algorithms (AIA) research group is a part of the [Computer Science Engineering (INGI) department](https://uclouvain.be/fr/instituts-recherche/icteam/ingi) and the [Institute for Information and Communication Technologies, Electronics and Applied Mathematics (ICTEAM)](https://uclouvain.be/fr/node/1991). 
+Some of its members also participate in the [Machine Learning Group](https://mlg.info.ucl.ac.be) of the UCLouvain. Many of its members were formerly members of the [BeCool research Group](http://becool.info.ucl.ac.be). 
+
+
+Our group has the following members.
 
 Professors
 ----------
