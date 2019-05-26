@@ -41,8 +41,8 @@ PhD students
 * Alexander Gerniers
 * Xavier Guillard
 * Victor Hamer
-* Anna Latour
-* Alexandre Mattenet
+* Anna Louise Latour
+* Alex Mattenet
 * Ha Quang Minh 
 * Michael Saint-Guillain
 * Charles Thomas 
