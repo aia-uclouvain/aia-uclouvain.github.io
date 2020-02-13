@@ -35,12 +35,13 @@ PhD students
 * Gaël Aglin
 * John Aoga
 * François Aubry
-* Oussama Bouldjedri
 * Vincent Branders
+* Vianney Coppé
 * Guillaume Derval
 * Alexander Gerniers
 * Xavier Guillard
 * Victor Hamer
+* Harold Kiossou
 * Anna Louise Latour
 * Alex Mattenet
 * Ha Quang Minh 
