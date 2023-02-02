@@ -20,36 +20,35 @@ Professors
 
 * [Yves Deville](https://www.info.ucl.ac.be/~yde/)
 * [Pierre Dupont](https://www.info.ucl.ac.be/~pdupont/)
+* [Sébastien Jodogne](https://www.info.ucl.ac.be/~sjodogne/)
 * [Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/)
 * [Pierre Schaus](https://www.info.ucl.ac.be/~pschaus/)
 
 Postdocs
 --------
 
-* Erick Cuenca 
-* Son Pham
+* Gaël Aglin
+* Charles Thomas 
+* Xavier Gillard
 
 PhD students
 ------------
 
-* Gaël Aglin
-* John Aoga
-* François Aubry
-* Vincent Branders
+
 * Vianney Coppé
 * Guillaume Derval
 * Alexander Gerniers
-* Xavier Guillard
-* Victor Hamer
 * Harold Kiossou
-* Anna Louise Latour
-* Alex Mattenet
-* Ha Quang Minh 
-* Michael Saint-Guillain
-* Charles Thomas 
-* Hélène Verhaeghe
+* Lucile Dierckx
+* Alexandre Dubray
+* Auguste Burlat
+* Nicolas Golvenvaux
 
-Visitors
---------
+
+Visitors and close collaborators
+--------------------------------
 
 * Roger Kameugne
+* Hélène Verhaeghe
+* Guillaume Derval
+* Michael Saint-Guillain

@@ -13,5 +13,6 @@ We have created a number of software packages that are available as open source 
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home): constraint programming in Scala
 * [MiniCP](http://www.minicp.org): lightweight constraint programming in Java
 * [CP4DM](https://sites.uclouvain.be/cp4dm/): constraints for data mining in OscaR
-
-Online demos of some of our tools will also be available here in the near future.
+* [DDO](https://github.com/xgillard/ddo): generic and efficient framework for MDD-based optimization
+* [DL8.5](https://github.com/aia-uclouvain/pydl8.5): exact decision trees
+* [ORTHANC](https://www.orthanc-server.com): Open-source, lightweight DICOM server
