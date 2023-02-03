@@ -15,4 +15,4 @@ We have created a number of software packages that are available as open source 
 * [CP4DM](https://sites.uclouvain.be/cp4dm/): constraints for data mining in OscaR
 * [DDO](https://github.com/xgillard/ddo): generic and efficient framework for MDD-based optimization
 * [DL8.5](https://github.com/aia-uclouvain/pydl8.5): exact decision trees
-* [ORTHANC](https://www.orthanc-server.com): Open-source, lightweight DICOM server
+* [Orthanc](https://www.orthanc-server.com/): free and open-source ecosystem for medical imaging (DICOM)

@@ -28,27 +28,27 @@ Postdocs
 --------
 
 * Gaël Aglin
-* Charles Thomas 
 * Xavier Gillard
+* Charles Thomas 
 
 PhD students
 ------------
 
-
+* Auguste Burlat
+* Edouard Chatzopoulos
 * Vianney Coppé
-* Guillaume Derval
-* Alexander Gerniers
-* Harold Kiossou
 * Lucile Dierckx
 * Alexandre Dubray
-* Auguste Burlat
+* Amaury Fierens
+* Alexander Gerniers
 * Nicolas Golvenvaux
-
+* Harold Kiossou
+* Quentin Langlois
 
 Visitors and close collaborators
 --------------------------------
 
-* Roger Kameugne
-* Hélène Verhaeghe
 * Guillaume Derval
+* Roger Kameugne
 * Michael Saint-Guillain
+* Hélène Verhaeghe
