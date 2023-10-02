@@ -44,6 +44,7 @@ PhD students
 * Nicolas Golvenvaux
 * Harold Kiossou
 * Quentin Langlois
+* Juliette Vanderhaeghen
 
 Visitors and close collaborators
 --------------------------------
