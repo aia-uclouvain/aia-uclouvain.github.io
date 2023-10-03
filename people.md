@@ -22,6 +22,7 @@ Professors
 * [Pierre Dupont](https://www.info.ucl.ac.be/~pdupont/)
 * [Sébastien Jodogne](https://www.info.ucl.ac.be/~sjodogne/)
 * [Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/)
+* [Eric Piette](http://piette.info/eric/)
 * [Pierre Schaus](https://www.info.ucl.ac.be/~pschaus/)
 
 Postdocs
