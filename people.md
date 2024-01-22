@@ -28,8 +28,6 @@ Professors
 Postdocs
 --------
 
-* Gaël Aglin
-* Xavier Gillard
 * Charles Thomas 
 
 PhD students
@@ -43,16 +41,24 @@ PhD students
 * Alexandre Dubray
 * Amaury Fierens
 * Alexander Gerniers
-* Nicolas Golvenvaux
 * Harold Kiossou
 * Quentin Langlois
+* Emma Legrand
 * Achille Morenville
+* Benoît Ronval
 * Juliette Vanderhaeghen
 
 Visitors and close collaborators
 --------------------------------
 
 * Guillaume Derval
+* Xavier Gillard
 * Roger Kameugne
 * Michael Saint-Guillain
 * Hélène Verhaeghe
+
+Past members
+------------
+
+* Gaël Aglin
+* Nicolas Golenvaux
