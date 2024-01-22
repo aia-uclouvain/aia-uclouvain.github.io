@@ -35,9 +35,10 @@ Postdocs
 PhD students
 ------------
 
-* Auguste Burlat
+* Auguste Burlats
 * Edouard Chatzopoulos
 * Vianney Coppé
+* Augustin Delecluse
 * Lucile Dierckx
 * Alexandre Dubray
 * Amaury Fierens
@@ -45,6 +46,7 @@ PhD students
 * Nicolas Golvenvaux
 * Harold Kiossou
 * Quentin Langlois
+* Achille Morenville
 * Juliette Vanderhaeghen
 
 Visitors and close collaborators
