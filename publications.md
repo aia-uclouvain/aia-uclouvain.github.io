@@ -16,3 +16,4 @@ In the mean time, check DIAL for our publications:
 * [Sébastien Jodogne](https://dial.uclouvain.be/pr/boreal/search/site/jodogne?f%5B0%5D=sm_creator%3AJodogne%2C%20S%C3%A9bastien&solrsort=ss_date%20desc)
 * [Siegfried Nijssen](http://dial.uclouvain.be/pr/boreal/search/site/siegfried%20nijssen?f%5B0%5D=sm_creator%3ANijssen%2C%20Siegfried&solrsort=ss_date%20desc)
 * [Pierre Schaus](http://dial.uclouvain.be/pr/boreal/search/site/pierre%20schaus?f%5B0%5D=sm_creator%3ASchaus%2C%20Pierre&solrsort=ss_date%20desc)
+* [Hélène Verhaeghe](https://dial.uclouvain.be/pr/boreal/fr/search/site/%28tm_creator%3A%22Verhaeghe%2C%20H%C3%A9l%C3%A8ne%22%29)

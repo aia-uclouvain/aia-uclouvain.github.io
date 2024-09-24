@@ -24,6 +24,7 @@ Professors
 * [Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/)
 * [Eric Piette](http://piette.info/eric/)
 * [Pierre Schaus](https://www.info.ucl.ac.be/~pschaus/)
+* [Hélène Verhaeghe](https://hverhaeghe.bitbucket.io/)
 
 Postdocs
 --------
@@ -34,7 +35,7 @@ PhD students
 ------------
 
 * Achille Morenville
-* Auguste Burlats
+* Alice Burlats
 * Edouard Chatzopoulos
 * Vianney Coppé
 * Augustin Delecluse
@@ -42,6 +43,7 @@ PhD students
 * Alexandre Dubray
 * Amaury Fierens
 * Alexander Gerniers
+* Amaury Guichard
 * Harold Kiossou
 * Quentin Langlois
 * Emma Legrand
@@ -56,7 +58,6 @@ Visitors and close collaborators
 * Xavier Gillard
 * Roger Kameugne
 * Michael Saint-Guillain
-* Hélène Verhaeghe
 
 Past members
 ------------
