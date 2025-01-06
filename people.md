@@ -39,6 +39,7 @@ PhD students
 * Edouard Chatzopoulos
 * Vianney Coppé
 * Augustin Delecluse
+* Mathias de Schietere de Lophem
 * Lucile Dierckx
 * Alexandre Dubray
 * Amaury Fierens
