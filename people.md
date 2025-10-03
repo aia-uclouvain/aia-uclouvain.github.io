@@ -30,7 +30,6 @@ Professors
 Postdocs
 --------
 
-
 PhD students
 ------------
 
