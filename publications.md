@@ -11,6 +11,7 @@ A full list of our publications will be available here soon.
 
 In the mean time, check DIAL for our publications:
 
+* [Quentin Cappart](https://dial.uclouvain.be/pr/boreal/fr/search/site/sm_creator%3A%22Cappart%2C%20Quentin%22)
 * [Yves Deville](http://dial.uclouvain.be/pr/boreal/search/site/yves%20deville?f%5B0%5D=sm_creator%3ADeville%2C%20Yves&solrsort=ss_date%20desc)
 * [Pierre Dupont](http://dial.uclouvain.be/pr/boreal/search/site/pierre%20dupont?f%5B0%5D=sm_creator%3ADupont%2C%20Pierre&solrsort=ss_date%20desc)
 * [Sébastien Jodogne](https://dial.uclouvain.be/pr/boreal/search/site/jodogne?f%5B0%5D=sm_creator%3AJodogne%2C%20S%C3%A9bastien&solrsort=ss_date%20desc)

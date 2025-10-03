@@ -18,6 +18,7 @@ Our group has the following members.
 Professors
 ----------
 
+* [Quentin Cappart](https://qcappart.github.io/)
 * [Yves Deville](https://www.info.ucl.ac.be/~yde/)
 * [Pierre Dupont](https://www.info.ucl.ac.be/~pdupont/)
 * [Sébastien Jodogne](https://www.info.ucl.ac.be/~sjodogne/)
@@ -29,7 +30,6 @@ Professors
 Postdocs
 --------
 
-* Charles Thomas 
 
 PhD students
 ------------
@@ -37,31 +37,35 @@ PhD students
 * Achille Morenville
 * Alice Burlats
 * Edouard Chatzopoulos
-* Vianney Coppé
-* Augustin Delecluse
+* Augustin Crespin
 * Mathias de Schietere de Lophem
 * Lucile Dierckx
-* Alexandre Dubray
 * Amaury Fierens
 * Alexander Gerniers
 * Amaury Guichard
 * Harold Kiossou
+* Ioannis Kostis
 * Quentin Langlois
 * Emma Legrand
 * Achille Morenville
+* Charles Packo
 * Benoît Ronval
 * Juliette Vanderhaeghen
 
 Visitors and close collaborators
 --------------------------------
 
+* Augustin Delecluse
+* Alexandre Dubray
 * Guillaume Derval
 * Xavier Gillard
 * Roger Kameugne
-* Michael Saint-Guillain
+* Charles Thomas 
 
 Past members
 ------------
 
 * Gaël Aglin
+* Vianney Coppé
 * Nicolas Golenvaux
+* Michael Saint-Guillain
